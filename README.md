@@ -156,9 +156,9 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/floor`][@stdlib/math/base/special/floor]</span><span class="delimiter">: </span><span class="description">round a double-precision floating-point number toward negative infinity.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/ceil`][@stdlib/math/iter/special/ceil]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value toward positive infinity.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/round`][@stdlib/math/iter/special/round]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value to the nearest integer.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/floor`][@stdlib/math/base/special/floor]</span><span class="delimiter">: </span><span class="description">round a double-precision floating-point number toward negative infinity.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/ceil`][@stdlib/math/iter/special/ceil]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value toward positive infinity.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/round`][@stdlib/math/iter/special/round]</span><span class="delimiter">: </span><span class="description">create an iterator which rounds each iterated value to the nearest integer.</span>
 
 </section>
 
